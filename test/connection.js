@@ -8,4 +8,10 @@ before(function(done){
 	}).on('error', function(error){
 			console.log('Error: ', error);
 		});
-});	
+});
+
+beforeEach(function(done){
+	mongoose.connection.collections.mariochars.drop(function(){
+		done();
+	});
+});

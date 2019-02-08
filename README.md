@@ -11,10 +11,13 @@
  
 # Version 3
 - Set up a test in Mocha to find a record by ID from the DB
-- When comparing Id's the ObjectId must be converted to a string first
+- NOTE: When comparing Id's the ObjectId must be converted to a string first
  
 # Version 4
-- Set up a test in Mocha to delete a record from then DB
+- Set up a test in Mocha to delete a record from the DB
  
 # Version 5
 - Set up a test in Mocha to update a record from the DB
+ 
+# Version 6
+- Set up a test in Mocha to increment the weight of all records by one

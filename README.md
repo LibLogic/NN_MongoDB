@@ -1,4 +1,4 @@
-# Version 0
+# Version 1
 
 - Made a connection to MongoDB using Mongoose
 - Set up a test environment with Mocha
@@ -10,8 +10,11 @@
 - Set up a test in Mocha to find a record from the DB
  
 # Version 3
-- Set up a test in Mocha to find a record by IDfrom the DB
+- Set up a test in Mocha to find a record by ID from the DB
 - When comparing Id's the ObjectId must be converted to a string first
  
 # Version 4
-- Set up a test in Mocha to delete a record from th DB
+- Set up a test in Mocha to delete a record from then DB
+ 
+# Version 5
+- Set up a test in Mocha to update a record from the DB

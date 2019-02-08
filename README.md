@@ -10,5 +10,5 @@
 - Set up a test in Mocha to find a record from the DB
  
 # Version 3
-- Set up a test in Mocha to find a record by IDfrom the DB
+- Set up a test in Mocha to find a record by ID from the DB
 - When comparing Id's the ObjectId must be converted to a string first

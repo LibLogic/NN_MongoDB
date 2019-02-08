@@ -12,3 +12,6 @@
 # Version 3
 - Set up a test in Mocha to find a record by IDfrom the DB
 - When comparing Id's the ObjectId must be converted to a string first
+ 
+# Version 4
+- Set up a test in Mocha to delete a record from th DB

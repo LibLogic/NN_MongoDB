@@ -23,4 +23,4 @@
 - Set up a test in Mocha to increment the weight of all records by one
  
 # Version 7
-- Added a Author Schema
+- Added an Author Schema
